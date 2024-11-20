@@ -1,0 +1,10 @@
+Save the file (e.g., app.py).
+Install Flask:
+bash
+Copy code
+pip install flask
+Run the app:
+bash
+Copy code
+python app.py
+Visit http://127.0.0.1:5000 in your browser.
